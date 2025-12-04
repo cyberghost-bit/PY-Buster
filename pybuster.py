@@ -1,3 +1,4 @@
+#Python based directory buster tool.
 import asyncio
 import httpx
 import random
